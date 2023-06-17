@@ -6,5 +6,3 @@ Initial Commit
 Feature in progress
 Bug Fix in Progress
 Release candidate
-
-stash changes 
